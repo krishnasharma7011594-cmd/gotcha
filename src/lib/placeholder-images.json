@@ -1,0 +1,172 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-1",
+      "description": "A smiling person's profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1521146764736-56c929d59c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NjIwNjk4OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "profile-2",
+      "description": "Profile picture of a person outdoors.",
+      "imageUrl": "https://images.unsplash.com/photo-1729881107160-d8ee8a727c2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBuYXR1cmV8ZW58MHx8fHwxNzYyMDU2NDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person nature"
+    },
+    {
+      "id": "profile-3",
+      "description": "Artistic profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1536924430914-91f9e2041b83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnRpc3RpYyUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjA3ODQ5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artistic portrait"
+    },
+    {
+      "id": "profile-4",
+      "description": "Profile picture of a person in a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1634824466031-c486f8b5cc98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBjaXR5fGVufDB8fHx8MTc2MTk4NTc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person city"
+    },
+    {
+      "id": "profile-main",
+      "description": "Main user's profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1633002507458-d8d61e7bc5d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3R5bGlzaCUyMHBlcnNvbnxlbnwwfHx8fDE3NjIwMTUzNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stylish person"
+    },
+    {
+      "id": "vybz-1",
+      "description": "A short video thumbnail of a dance.",
+      "imageUrl": "https://images.unsplash.com/photo-1596483941213-f9d3d65cf52d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYW5jZSUyMHZpZGVvfGVufDB8fHx8MTc2MjA4OTMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dance video"
+    },
+    {
+      "id": "vybz-2",
+      "description": "A short video thumbnail of cooking.",
+      "imageUrl": "https://images.unsplash.com/photo-1630441508966-431c08536d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb29raW5nJTIwZm9vZHxlbnwwfHx8fDE3NjIwNjMxNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cooking food"
+    },
+    {
+      "id": "vybz-3",
+      "description": "A short video thumbnail of traveling.",
+      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0cmF2ZWwlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzYyMDI3MTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel landscape"
+    },
+    {
+      "id": "vybz-4",
+      "description": "A short video thumbnail of a pet.",
+      "imageUrl": "https://images.unsplash.com/photo-1566847438217-76e82d383f84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjdXRlJTIwYW5pbWFsfGVufDB8fHx8MTc2MjA4NjI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cute animal"
+    },
+    {
+      "id": "vybz-5",
+      "description": "A short video thumbnail showing a fashion outfit.",
+      "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmYXNoaW9uJTIwc3R5bGV8ZW58MHx8fHwxNzYyMDg3MDUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion style"
+    },
+    {
+      "id": "vybz-6",
+      "description": "Thumbnail of a scenic view.",
+      "imageUrl": "https://images.unsplash.com/photo-1595453548641-18bad79f834c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY2VuaWMlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzYyMDg5MzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scenic landscape"
+    },
+    {
+      "id": "vybz-7",
+      "description": "Thumbnail of a workout routine.",
+      "imageUrl": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zml0bmVzcyUyMHdvcmtvdXR8ZW58MHx8fHwxNzYyMDYzOTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness workout"
+    },
+    {
+      "id": "vybz-8",
+      "description": "Thumbnail of a city timelapse.",
+      "imageUrl": "https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2l0eSUyMG5pZ2h0fGVufDB8fHx8MTc2MjA4NzQ5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city night"
+    },
+    {
+      "id": "vybz-9",
+      "description": "Thumbnail of an art creation process.",
+      "imageUrl": "https://images.unsplash.com/photo-1578926375605-eaf7559b1458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcnQlMjBwYWludGluZ3xlbnwwfHx8fDE3NjIwODc1NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art painting"
+    },
+    {
+      "id": "vybz-10",
+      "description": "Thumbnail of a music performance.",
+      "imageUrl": "https://images.unsplash.com/photo-1658227633934-b589ca17d602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtdXNpYyUyMGNvbmNlcnR8ZW58MHx8fHwxNzYyMDM2NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music concert"
+    },
+    {
+      "id": "creator-1",
+      "description": "Top creator avatar 1",
+      "imageUrl": "https://images.unsplash.com/photo-1735415977319-030fb3ee6466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBoYXBweXxlbnwwfHx8fDE3NjIwMTE3Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person happy"
+    },
+    {
+      "id": "creator-2",
+      "description": "Top creator avatar 2",
+      "imageUrl": "https://images.unsplash.com/photo-1636828762565-c94f54f738f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBjcmVhdGl2ZXxlbnwwfHx8fDE3NjIwMTkyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person creative"
+    },
+    {
+      "id": "creator-3",
+      "description": "Top creator avatar 3",
+      "imageUrl": "https://images.unsplash.com/photo-1740017116713-bfff27cb2cf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBjb29sfGVufDB8fHx8MTc2MjA4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person cool"
+    },
+    {
+      "id": "creator-4",
+      "description": "Top creator avatar 4",
+      "imageUrl": "https://images.unsplash.com/photo-1601713658790-47bc5bdf8e92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBmYXNoaW9ufGVufDB8fHx8MTc2MjA3NDgzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person fashion"
+    },
+    {
+      "id": "story-1",
+      "description": "A temporary story image.",
+      "imageUrl": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmllbmRzJTIwZnVufGVufDB8fHx8MTc2MjA4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends fun"
+    },
+    {
+      "id": "game-quiz",
+      "description": "Icon for a quiz game.",
+      "imageUrl": "https://images.unsplash.com/photo-1652077859695-de2851a95620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cXVlc3Rpb24lMjBtYXJrfGVufDB8fHx8MTc2MjA0MzYwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "question mark"
+    },
+    {
+      "id": "game-fruit",
+      "description": "Icon for a fruit cutting game.",
+      "imageUrl": "https://images.unsplash.com/photo-1573066778058-03dbee2c5a0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcnVpdCUyMHNsaWNlfGVufDB8fHx8MTc2MjA4OTMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit slice"
+    },
+    {
+      "id": "game-vault",
+      "description": "Icon for a vault earning game.",
+      "imageUrl": "https://images.unsplash.com/photo-1634108947682-12a8ddfc9b61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzYWZlJTIwdmF1bHR8ZW58MHx8fHwxNzYyMDI2MzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "safe vault"
+    },
+    {
+      "id": "game-ai",
+      "description": "Icon for AI tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1549925245-f20a1bac6454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyb2JvdCUyMGJyYWlufGVufDB8fHx8MTc2MjA1MDgxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot brain"
+    },
+    {
+      "id": "game-cab",
+      "description": "Icon for a cab booking app.",
+      "imageUrl": "https://images.unsplash.com/photo-1519680387994-4d87b020c088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YXhpJTIwY2l0eXxlbnwwfHx8fDE3NjIwOTAwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "taxi city"
+    },
+    {
+      "id": "game-payex",
+      "description": "Icon for a payment app.",
+      "imageUrl": "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYXltZW50fGVufDB8fHx8MTc2MjA5MDAyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "payment"
+    },
+    {
+      "id": "game-food",
+      "description": "Icon for a food delivery app.",
+      "imageUrl": "https://images.unsplash.com/photo-1580236082494-8f4f58c7f55b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb29kJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzYyMDkwMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food delivery"
+    },
+    {
+      "id": "game-ecommerce",
+      "description": "Icon for an e-commerce app.",
+      "imageUrl": "https://images.unsplash.com/photo-1522204523234-8729aa6e3d5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlY29tbWVyY2V8ZW58MHx8fHwxNzYyMDkwMDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce"
+    }
+  ]
+}
